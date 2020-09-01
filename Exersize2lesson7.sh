@@ -1,3 +1,5 @@
+# Renames flies with time and date. 
+
 #!/bin/bash
 cd ~/Desktop/
 DATE=$(date +%F)
