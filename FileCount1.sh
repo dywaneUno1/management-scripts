@@ -1,3 +1,5 @@
+# Function that counts number files in current diretory 
+
 #!/bin/bash
 
 function file_count() {
